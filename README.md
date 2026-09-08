@@ -1,5 +1,5 @@
 # Godot Plugins Library
-A catalog of my favorite plugins.
+A catalog of my favorite Godot Engine plugins.
 
 ### Task Management
 - [Kanban Tasks](https://store.godotengine.org/asset/holonproduction/kanban-tasks/) by HolonProduction
