@@ -13,5 +13,5 @@ A catalog of my favorite plugins.
 ## Animation Library
 - [Universal Animation Library](https://store.godotengine.org/asset/quaternius/universal-animation-library/) by Quaternius
 
-## AI Tools
+## AI Assistant Tools
 - [Godot AI](https://store.godotengine.org/asset/dlight/godot-ai/) by dlight
