@@ -2,4 +2,4 @@
 A catalog of my favorite plugins.
 
 ## Camera
-- [Phantom Camera](https://store.godotengine.org/asset/ramokz/phantom-camera/)
+- [Phantom Camera](https://store.godotengine.org/asset/ramokz/phantom-camera/) by Ramokz
