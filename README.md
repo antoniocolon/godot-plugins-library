@@ -7,5 +7,8 @@ A catalog of my favorite plugins.
 ## Scene Organization
 - [@icons](https://store.godotengine.org/asset/voxy/at-icons/) by Voxy
 
-## Camera
+## Camera Controls
 - [Phantom Camera](https://store.godotengine.org/asset/ramokz/phantom-camera/) by Ramokz
+
+## Animation Library
+- [Universal Animation Library](https://store.godotengine.org/asset/quaternius/universal-animation-library/) by Quaternius
